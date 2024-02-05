@@ -1,0 +1,4 @@
+Nom : New York City Taxi Fare Prediction
+URL : https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction
+Description : Can you predict a rider’s taxi fare ?
+Date de clôture : Permanent
