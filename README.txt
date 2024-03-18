@@ -14,26 +14,26 @@ Contenu de la branche "Projet_Taxi" :
 
 Dans le cadre de la réalisation de ce projet, nous avons utilisé plusieurs packages Python.
 Voici la liste des packages nécessaires au bon fonction de notre projet :
-- pandas
-- geopy.distance (geodesic)
-- math
-- numpy
-- matplotlib.pyplot
-- geopandas
-- shapely.geometry (Point, MultiPolygon, Polygon)
-- holidays
-- sklearn.model_selection (train_test_split)
-- sklearn.linear_model (LinearRegression)
-- sklearn.metrics (mean_squared_error, mean_absolute_error)
-- sklearn.tree (DecisionTreeRegressor, plot_tree)
-- sklearn.ensemble (RandomForestRegressor)
-- seaborn
-- datetime (datetime, timedelta)
-- pytz
-- sklearn.metrics (r2_score)
-- sklearn.model_selection (cross_val_score)
-- scipy.stats (pearsonr)
-- scipy.stats (chi2_contingency)
+- pandas : v1.5.3
+- geopy.distance (geodesic) : v2.3.0
+- math : v3.8.0
+- numpy : v1.25.2
+- matplotlib.pyplot : v3.7.1
+- geopandas : v0.13.2
+- shapely.geometry (Point, MultiPolygon, Polygon) : v2.0.3
+- holidays : v0.44
+- sklearn.model_selection (train_test_split) : v2.2.0
+- sklearn.linear_model (LinearRegression) : v2.2.0
+- sklearn.metrics (mean_squared_error, mean_absolute_error) : v2.2.0
+- sklearn.tree (DecisionTreeRegressor, plot_tree) : v2.2.0
+- sklearn.ensemble (RandomForestRegressor) : v2.2.0
+- seaborn : v0.13.1
+- datetime (datetime, timedelta) : v5.4.0
+- pytz : v2023.4
+- sklearn.metrics (r2_score) : v2.2.0
+- sklearn.model_selection (cross_val_score) : v2.2.0
+- scipy.stats (pearsonr) : v1.11.4
+- scipy.stats (chi2_contingency) : v1.11.4
 
 Solène LEMAS | Flora FEVRIER | Gabriel FORET | Alban DANIEL | Paul DEBUIRE
 Etudiants - M2 Système d'Information et Aide à la Décision
