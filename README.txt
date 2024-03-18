@@ -2,7 +2,8 @@ Bienvenue !
 
 Ce repository GitHub contient les ressources concernant le projet de Big Data réalisé dans le carde du Master SIAD.
 
-Contenu de la branche "Notebook" :
+Contenu de la branche "Projet_Taxi" :
+- Le diagramme de Gantt représentant la répartition de la gestion du projet : "Gantt - Projet Taxi.png"
 - Fichier texte regroupant les informations sur le sujet choisi et le Kaggle où récupérer les données sources : "Sujet.txt"
 - Notebook d'analyse : "Analyse_Exploratoire_Projet_BIGDATA.ipynb"
 - Fichier regroupant les positions des lieux remarquables à New-York : "monuments.csv"
